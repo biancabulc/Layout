@@ -1,0 +1,82 @@
+
+
+
+
+
+.content-wrapper{
+    height:70%;
+    text-align:center;
+}
+
+.header{
+     height:70%;
+     background-color:burlywood;
+
+}
+
+.header h1{
+
+}
+text-align:center;
+
+.logo{
+    margin-left:50px;
+}
+
+
+.content-wrapper .menu {
+    background-color: lightgreen;
+    width: calc(50% - 4px);
+    height: 90px;
+    line-height: 90px;
+    float: left;
+    clear: both;
+}
+
+.content-wrapper .importantZone {
+    width: calc(50% - 4px);
+    background-color: pink;
+    height: 90px;
+    line-height: 90px;
+    float: right;
+    clear: right;
+}
+
+.content-wrapper .contactInfo {
+    height: 500px;
+    line-height: 500px;
+    float: left;
+    border-bottom: 4px solid mediumaquamarine;
+    
+}
+
+
+
+.content-wrapper .beadcrumb {
+    float: right;
+    height: 70px;
+    line-height: 70px;
+    background-color: burlywood;
+}
+
+.content-wrapper .content {
+    float: left;
+    height: 300px;
+    line-height: 300px;
+    background-color: sienna
+}
+
+
+
+.content-wrapper .secondContent {
+    float: right;
+    height: 300px;
+    line-height: 300px;
+    background-color: mediumaquamarine;
+}
+
+
+.footer .footer1. footer2. footer3. footer4{
+    float: left;
+    background-color:burlywood;
+}
